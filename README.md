@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Art0nus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
+<p align=center>
+<a href="https://discord.com/users/829022776953798716"><img src="https://discord.c99.nl/widget/theme-4/829022776953798716.png" width=40%></a>
+ </p>
 
-<!---
-Art0nus/Art0nus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="center"><img src="https://count.getloli.com/get/@:Art0nus" alt=":Art0nus" /></p>
