@@ -11,4 +11,4 @@
 
 
 
-![]                                        (https://raw.githubusercontent.com/9aylas/9aylas/main/gif.gif)
+<p align="center"><img src="https://raw.githubusercontent.com/9aylas/9aylas/main/gif.gif" /> </p>
